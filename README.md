@@ -2,7 +2,6 @@
 http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstein.jpg
 **trav-xeno/trav-xeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
-![image of a quote](http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstein.jpg)
 --> 
 
 ## Hi there 👋  ![Visitor Count](https://profile-counter.glitch.me/trav-xeno/count.svg)
@@ -19,5 +18,4 @@ http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstei
   <li>📫 How to reach me: linkedIn![linkedIn](https://www.linkedin.com/in/travis-nevins/) </li>
 </ul>  
   
-
-<img width="300" height="200" alt="image of a quote" src="http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstein.jpg)" >
+<img src="https://th.bing.com/th/id/Rb0fc35d3ea90005d82676206edcb9426?rik=dHx%2f2VumcAD0hQ&riu=http%3a%2f%2fblog.aryatra.com%2fwp-content%2fuploads%2f2016%2f08%2flifelong-learning-quotes-albert-einstein.jpg&ehk=X6ILe2oX4CK%2fbTyFrK4bDfmeXLo%2b62zazbDlE5Ijy4g%3d&risl=&pid=ImgRaw" width="500" height="400">
