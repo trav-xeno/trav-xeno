@@ -8,7 +8,7 @@ http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstei
 
 <p> 
   I am currently a CS student at Tufts working towards a MS degree. 
-  I tend to dabble in a verity of technologies and programming languages. Since I am taking classes I have a work saved to a private repo so if you wish to see the work I have done thus far please contact me! I have some major projects in mind that I will be adding in comming year(when I have time) so stay tuned!      
+  I tend to dabble in a verity of technologies and programming languages. Since I am taking classes I have work saved to a private repo so if you wish to see the work I have done thus far in my classes please contact me! I have some major projects in mind that I will be adding in comming year(when I have time) so stay tuned!      
 </p>
 <br/>
 <ul>
