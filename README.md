@@ -13,7 +13,7 @@ http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstei
 <br/>
 <ul>
   <li>🔭 I’m currently working on my Masters classes</li>
-  <li> :books:	 I’m currently learning kotlin(ktor)/flutter for web</li>
+  <li> :books:	 I’m currently learning kotlin/Rust. BTW working onGo/c++/Js/TS </li>
   <li>:desktop_computer:	I’m looking to collaborate on pretty much anything programming related </li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/travis-nevins/">LinkedIn</a> </li>
 </ul>  
