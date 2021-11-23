@@ -8,14 +8,16 @@ http://quotesideas.com/wp-content/uploads/2015/02/Learning-Quotes-Albert-Einstei
 
 <p> 
   I am currently a CS student at Tufts working towards a MS degree. 
-  I tend to dabble in a verity of technologies and programming languages. Since I am taking classes I have work saved to a private repo so if you wish to see the work I have done thus far in my classes please contact me! I have some major projects in mind that I will be adding in comming year(when I have time) so stay tuned!      
+  I tend to dabble in a verity of technologies and programming languages. Since I dabble I don't tend to consider myself a master of anything I do. I just do it so I can get a beter perspective on different technologies and techniques. So far the technologies I enjoy using have been, docker/Kotlin/Go/TS/C++/Python/Rust/React/Vue/C#.    
+ <br/><br/>
+ Note: Since I am taking classes I have work saved to a private repo for C++ so if you wish to see the work I have done thus far in my classes please contact me! I have some major projects in mind that I will be adding in comming year(when I have time) so stay tuned!      
 </p>
 <br/>
 <ul>
   <li>🔭 I’m currently working on my Masters classes</li>
-  <li> :books:	 I’m currently learning kotlin/Rust. BTW working onGo/c++/Js/TS </li>
+  <li> :books:	 I’m currently learning kotlin/Rust. BTW working on Go/c++/Js/TS </li>
   <li>:desktop_computer:	I’m looking to collaborate on pretty much anything programming related </li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/travis-nevins/">LinkedIn</a> </li>
 </ul>  
-  
-<img src="https://th.bing.com/th/id/Rb0fc35d3ea90005d82676206edcb9426?rik=dHx%2f2VumcAD0hQ&riu=http%3a%2f%2fblog.aryatra.com%2fwp-content%2fuploads%2f2016%2f08%2flifelong-learning-quotes-albert-einstein.jpg&ehk=X6ILe2oX4CK%2fbTyFrK4bDfmeXLo%2b62zazbDlE5Ijy4g%3d&risl=&pid=ImgRaw" width="500" height="400">
+  <!--
+<img src="https://th.bing.com/th/id/Rb0fc35d3ea90005d82676206edcb9426?rik=dHx%2f2VumcAD0hQ&riu=http%3a%2f%2fblog.aryatra.com%2fwp-content%2fuploads%2f2016%2f08%2flifelong-learning-quotes-albert-einstein.jpg&ehk=X6ILe2oX4CK%2fbTyFrK4bDfmeXLo%2b62zazbDlE5Ijy4g%3d&risl=&pid=ImgRaw" width="500" height="400"> -->
