@@ -14,4 +14,4 @@ Note: Since I am taking classes I have work saved to a private repo for Class if
 #### Tufts HW additions
   * All parts complete
   * discussed with no one
-  * hours spent: 5
+  * hours spent: 7 hours (lots of css tweaks)
