@@ -10,8 +10,3 @@ Note: Since I am taking classes I have work saved to a private repo for Class if
 * 🎆 I’m currently learning Rust bevy project and of course can't stop keeping an eye on Js/TS like Bun, surrealDB, and pocketbase
 * 💻 I’m looking to collaborate on Rust, Go, Kotlin projects 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/travis-nevins/">LinkedIn</a> 
-
-#### Tufts HW additions
-  * All parts complete
-  * discussed with no one
-  * hours spent: 7 hours (lots of css tweaks)
