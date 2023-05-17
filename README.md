@@ -7,12 +7,12 @@ Note: Since I am taking classes I have work saved to a private repo for Class if
 
 
 * 🔭 I’m currently working on my Masters classes
-* 🎆 I’m currently learning Rust bevy project and of course can't stop keeping an eye on Js/TS like Bun, surrealDB, and nim
-* 💻 I’m looking to collaborate on Rust, nim, Go, and Kotlin projects 
+* 🎆 I’m currently learning Zig and of course can't stop keeping an eye on Js/TS like Bun, surrealDB, and Mojo
+* 💻 I’m looking to collaborate on Rust, Zig, Go, and Kotlin projects 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/travis-nevins/">LinkedIn</a> and message me.
 
 ### Side projects
 I have a few projects I am currently working on.
 * Rust game using Bevy
-* several websites using firebase
-* keeping updated on Kotlin/Nim
+* keeping update on C#/Swift/Kotlin/Zig
+* updating several webistes  
