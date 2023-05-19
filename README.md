@@ -14,5 +14,5 @@ Note: Since I am taking classes I have work saved to a private repo for Class if
 ### Side projects
 I have a few projects I am currently working on.
 * Rust game using Bevy
-* keeping update on C#/Swift/Kotlin/Zig
+* keeping update on C#/Swift/Kotlin/Zig/elixir/scala
 * updating several webistes  
