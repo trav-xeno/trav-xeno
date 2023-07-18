@@ -1,4 +1,4 @@
-## Hi there 👋  ![Visitor Count](https://profile-counter.glitch.me/trav-xeno/count.svg)
+## Hi there 👋 
 
  I am currently a CS student at Tufts working towards a MS degree.I tend to dabble in a verity of technologies and programming languages. Since I dabble I don't tend to consider myself a master of anything I do. I just do it so I can get a beter perspective on different technologies and techniques. So far the technologies I enjoy using have been, docker/Kotlin/Go/TS/Python/Rust/React/SurrealDB/Vue/svelte/bevy/nim/grain(WASM)/c++/C#.    
 
