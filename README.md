@@ -15,4 +15,4 @@ Note: Since I've taken programming classes at tutfts I have work saved to a priv
 I have a few projects I am currently working on.
 * Rust game using Bevy(still messing aroudn with it)
 * keeping update on Go/Swift/Kotlin/Zig/elixir/scala/F# and design patterns
-* Creating several web projects  
+* I'm learning on PCB/Board design stay tuned for some opensource hardware I design!
